@@ -1,2 +1,3 @@
-# TL82
-Press here: https://github.com/orgs/newbloodteam/teams/tl82
+# TL82 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl82
+
